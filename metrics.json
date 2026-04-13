@@ -1,0 +1,23 @@
+{
+  "roc_auc": 0.9817,
+  "f1": 0.9155,
+  "accuracy": 0.9947,
+  "precision": 0.9965,
+  "recall": 0.8466,
+  "threshold": 0.9715,
+  "threshold_method": "F1-optimal",
+  "n_features": 55,
+  "n_original_feat": 59,
+  "train_time_s": 174.1,
+  "optuna_trials_per_model": 60,
+  "auc_xgb": 0.9819,
+  "auc_lgb": 0.9811,
+  "auc_cat": 0.9805,
+  "auc_meta": 0.982,
+  "auc_blend": 0.9817,
+  "cv_folds": 10,
+  "cv_auc_mean": 0.9825,
+  "cv_auc_std": 0.0133,
+  "cv_auc_min": 0.9604,
+  "cv_auc_max": 0.997
+}
