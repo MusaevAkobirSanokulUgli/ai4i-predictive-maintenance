@@ -8,7 +8,7 @@
   "threshold_method": "F1-optimal",
   "n_features": 55,
   "n_original_feat": 59,
-  "train_time_s": 139.7,
+  "train_time_s": 133.9,
   "optuna_trials_per_model": 100,
   "auc_xgb": 0.9828,
   "auc_lgb": 0.9829,
